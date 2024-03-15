@@ -107,13 +107,13 @@ There are `985 users`  in Bangladesh. You need at least `57 followers` to be on 
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/BytesOfIntelligences">
-				<img src="https://avatars.githubusercontent.com/u/56669333?s=72&u=fa5fa530b4db9afb699a72cb62ce9a1f9c9679df&v=4" width="24" alt="Avatar of BytesOfIntelligences"> BytesOfIntelligences
+			<a href="https://github.com/devriazul">
+				<img src="[https://avatars.githubusercontent.com/u/56669333?s=72&u=fa5fa530b4db9afb699a72cb62ce9a1f9c9679df&v=4](https://avatars.githubusercontent.com/u/24354468?v=4)" width="24" alt="Avatar of BytesOfIntelligences"> Riazul Islam
 			</a><br/>
-			Bytes Of Intelligence
+			Riazul Islam
 		</td>
 		<td>@bytes-of-intelligen </td>
-		<td><a href="https://twitter.com/ahammadmejbah">ahammadmejbah</a></td>
+		<td><a href="https://twitter.com/devriazul">ahammadmejbah</a></td>
 		<td>Dhaka, Bangladesh</td>
 		<td>59183</td>
 	</tr>
